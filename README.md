@@ -1,9 +1,9 @@
 ## ATIVIDADE ABSTRAÇÃO E LÓGICA (Cicera Thais e Isabella Aparecida)
 
-##Menu 
+# Menu 
 Escolher uma das opções de 1 a 12 para executar o programa.
 
-##Opções
+# Opções
   1.Sistema de Marcenaria (Retângulo);
   2. RH de Empresa (Funcionário);
   3. Banco Digital (Conta Bancária);
